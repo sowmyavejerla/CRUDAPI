@@ -1,0 +1,6 @@
+CRUD MANAGEMENT RESTFul API WITH GIN FRAMEWORK
+
+
+Features:
+
+Simple CRUD API with GIN Framework.
